@@ -1,3 +1,3 @@
-window.onload =>(e){
-  alert("true");
+window.onload =(e)=>{
+  alert("true "+e);
 }
