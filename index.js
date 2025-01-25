@@ -1,3 +1,3 @@
 window.onload =(e)=>{
-  alert("cookie "+decodeURIComponent(document.cookie));
+  alert(0);
 }
