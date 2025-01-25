@@ -4,6 +4,7 @@ body{
   background-color: black;
   text-align: center;
   color: white;
+  border-size: 0;
 }
 #background {
   width: 100%;
