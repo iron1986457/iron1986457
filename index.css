@@ -5,8 +5,8 @@ body{
   background-color: white;
   text-align: center;
   color: white;
-  border-size: 0px;
-  padding-size: 0px;
+  border-size: 0;
+  padding: 0;
 }
 #background {
   display: block;
@@ -20,7 +20,7 @@ body{
   color: white;
   text-align: center;
   border-size: 0;
-  padding-size: 0;
+  padding: 0;
   font-family: Times New Roman;
   font-size: 20px;
 }
